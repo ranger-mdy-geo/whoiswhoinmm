@@ -191,13 +191,8 @@ This project “Who Is Who In Myanmar”  intends to know about the biographies 
 Our project is helpful to save your time by viewing famous people biography easily and quickly.
 
 
-
-
-
-
-
-
 1.2  Background of the app
+
 1.1.1	HTML, Javascript, CSS
 
 Hypertext Markup Language is the standard markup language for creating web pages and web applications.With Cascading Style Sheets and Javascript, it forms a triad of cornerstone technologies for the World Wide Web.So we use html , javascript , css for this project.To make this  application , we use materializeCSS ,  MDL(material design lite) for design.
