@@ -128,7 +128,7 @@ We also thank our parents and all of our friends for providing encouragement and
 We declare that this project report or part of it was not a copy of a document done by any organization, any other institute or  university or a previous project group at University of Computer Studies(Mandalay) and was not copied from the Internet or other sources.
 
 
-      Project Details
+Project Details
 Project Type	Python Flask App
 
 Project Title	Who is Who in Myanmar
@@ -183,7 +183,7 @@ Table(3.6)  People Table...................................................25   
 
 
 Chapter 1
-*                         Introduction
+*Introduction
 1.1	Introduction
 Nowadays,mobile phones allow instant communication with not only our family, friends and people we know, but also with people across the world who we’ve never met in real life. So most of people are using  mobile phones to communicate each other.Thus, mobile phones are becoming necessary and useful devices for people.
 This application can be used with   mobile phones, tablets or PCs. The project provides about an application that gives famous people’s  information in Myanmar.  It is a type of Python Flask Application.This application is simple and easy to use.
