@@ -172,8 +172,8 @@ Figure(3.28) Clicking “READ MORE” link........................23
 
 
 
-                       List of Tables
-Table                                             			            Page
+#                       List of Tables
+Table                                             			  Page
 Table(3.1) Celebrity Table................................................24
 Table(3.2)  Director Table................................................24
 Table(3.3)  Business Leader Table...................................24
