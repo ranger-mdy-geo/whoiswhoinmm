@@ -201,7 +201,7 @@ Hypertext Markup Language is the standard markup language for creating web pages
 1.2.2	What is Python?
 Can we develop web application using python?
 
-Python is a scripting language like PHP, Perl, Ruby and so much more. It can be used for web programming(Zope, Google App Engine , and much more). But it also can be used for desktop applications and can also be translated into binary code like java. It can be used to build server-side web applications.While a webframework is not required to built web applications,it’s rare that developers would not use existing open source libraries to speed up their progress in getting their application working. Python is not used in web browser.
+**Python is a scripting language like PHP, Perl, Ruby and so much more. It can be used for web programming(Zope, Google App Engine , and much more). But it also can be used for desktop applications and can also be translated into binary code like java. It can be used to build server-side web applications.While a webframework is not required to built web applications,it’s rare that developers would not use existing open source libraries to speed up their progress in getting their application working. Python is not used in web browser.
 In this project, we use python language due to this above  good facts. This application is also a type of python flask application. So we must use python.
 
 1.2.3	What is Flask ?
