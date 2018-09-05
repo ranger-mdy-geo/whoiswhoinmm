@@ -138,7 +138,7 @@ Project ID	Geo Mandalar Company Internship
 
  
 #                                 List of Figures
-Figures             						       Page
+Figures             						             Page
 Figure(2.1) Project Schedule...................................................5
 Figure(3.1)  Class Diagram.....................................................6
 Figure(3.2)  Usecase Diagram................................................7
