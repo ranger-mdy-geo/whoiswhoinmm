@@ -402,18 +402,6 @@ Figure 3.26  Model Page
 
 Figure 3.27 Model Page
 
-
-
-
-
-
-
-
-
-
-
-
-
 When we click “READ MORE” link of Nang Khin Zay Yar, Nang Khin Zay Yar biography in detail will show.
 
 Figure 3.28 Clicking READ MORE link
