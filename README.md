@@ -49,7 +49,7 @@
         List of figures.........................................iv
         List of Tables...........................................v
 	
-##        CHAPTER 1   INTRODUCTION
+##       CHAPTER 1   INTRODUCTION
         1.1	Introduction ...................................1
         1.2	Background of the app...........................2
             1.2.1  HTML,CSS,Javascript .........................2
@@ -246,9 +246,9 @@
                   Table (3.1) Celebrity Table
                    Column	Constraint	Data Type	Length
                       Id	Primary Key	integer
-                     Name		        varchar	          30
-                     Link		        varchar	          10
-                     Occupation		        varchar	          30
+                     Name		        varchar	           30
+                     Link		        varchar	           10
+                     Occupation		        varchar	           30
                      Image		        text
                      Bio		        text
 
