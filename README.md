@@ -41,7 +41,7 @@
      Faculty of Computer Systems and Technologies
      University of Computer Studies(Mandalay)
  
-                             CONTENTS
+ ##                            CONTENTS
                  					Page Number
         Abstract................................................i
         Acknowledgement.........................................ii
@@ -49,7 +49,7 @@
         List of figures.........................................iv
         List of Tables...........................................v
 	
-        ## CHAPTER 1   INTRODUCTION
+##        CHAPTER 1   INTRODUCTION
         1.1	Introduction ...................................1
         1.2	Background of the app...........................2
             1.2.1  HTML,CSS,Javascript .........................2
@@ -57,19 +57,19 @@
             1.2.3 What is Flask?
         1.3     Objective of the project........................3
             1.2.4 What is SQL Alchemy?............,.............3
-        CHAPTER 2   METHDOLOGY..................................4
+##      CHAPTER 2   METHDOLOGY..................................4
          2.1      Software Selection
                     Software Requirement
                      Hardware Requirement
          2.2      Project Schedule..............................5
-         CHAPTER 3  PROJECT DEVELOPMENT
+ ##      CHAPTER 3  PROJECT DEVELOPMENT
          3.1.1    Class Diagram.................................6
          3.1.2     Use Case Diagram.............................7
          3.1.3     Sequence Diagram.............................8
          3.1.4  App Design......................................9
         3.2     Database Implementation.........................24
 
-         CHAPTER 4  EVALUATION AND CONCLUSION
+ ##        CHAPTER 4  EVALUATION AND CONCLUSION
           4.1    Conclusion.....................................26
           4.2    Advantages of the project......................26
           4.3     Disvantages of the project....................26
@@ -107,7 +107,7 @@
 
 
  
-          #                                 List of Figures
+ ##                               List of Figures
                    Figures             						                  Page
                    Figure(2.1) Project Schedule...................................................5
                    Figure(3.1)  Class Diagram.....................................................6
@@ -142,7 +142,7 @@
 
 
 
-                 #                       List of Tables
+##                     List of Tables
                  Table                                             			  Page
                  Table(3.1) Celebrity Table................................................24
                  Table(3.2)  Director Table................................................24
