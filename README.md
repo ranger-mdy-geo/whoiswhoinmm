@@ -9,9 +9,7 @@ A PROJECT REPORT ON
      SUBMITED IN PARTIAL
 FULFILLMENT OF INTERNSHIP
          PROJECT
-
    UNDER THE GUIDANCE OF
-
         Director
 
         U Ravi Chhabra
