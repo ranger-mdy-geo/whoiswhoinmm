@@ -120,11 +120,7 @@ Moreover, we would like to thank Dr. San San Tint,our pro-rector and our supervi
 We would like to express our deep appreciation to the director, U Ravi Chhabra(CEO of Geo Mandalar Co.Ltd.,) for his guidance about software development workflow and for giving  his trust to us such a responsibility project during internship programme.
 We also thank our parents and all of our friends for providing encouragement and giving us a great support during internship programme.
 
-
-
-
- 
-                                       DECLARATION
+###                    DECLARATION
 We declare that this project report or part of it was not a copy of a document done by any organization, any other institute or  university or a previous project group at University of Computer Studies(Mandalay) and was not copied from the Internet or other sources.
 
 
