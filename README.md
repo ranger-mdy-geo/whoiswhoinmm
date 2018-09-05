@@ -124,12 +124,12 @@ We also thank our parents and all of our friends for providing encouragement and
 We declare that this project report or part of it was not a copy of a document done by any organization, any other institute or  university or a previous project group at University of Computer Studies(Mandalay) and was not copied from the Internet or other sources.
 
 
-Project Details
-Project Type	Python Flask App
+######Project Details
+##Project Type	Python Flask App
 
-Project Title	Who is Who in Myanmar
+##Project Title	Who is Who in Myanmar
 
-Project ID	Geo Mandalar Company Internship
+##Project ID	Geo Mandalar Company Internship
 
 
  
