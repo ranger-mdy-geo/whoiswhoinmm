@@ -4,7 +4,7 @@ Repo for project
 A PROJECT REPORT ON
 
  “Python Flask Application(Who is Who in Myanmar)
-      FOR
+     	 FOR
 
  GEO  MANDALAR Co,Ltd.
 
