@@ -107,7 +107,7 @@ We also thank our parents and all of our friends for providing encouragement and
 
 
  
-DECLARATION
+##                                                                        DECLARATION
 We declare that this project report or part of it was not a copy of a document done by any organization, any other institute or  university or a previous project group at University of Computer Studies(Mandalay) and was not copied from the Internet or other sources.
 
 
