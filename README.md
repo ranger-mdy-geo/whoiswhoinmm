@@ -1,4 +1,4 @@
-i# whoiswhoinmm
+# whoiswhoinmm
 Repo for project
 
 A PROJECT REPORT ON
@@ -17,12 +17,8 @@ FULFILLMENT OF INTERNSHIP
          Daw Khaing Myat Nwe
 
      SUBMITTED BY
-     
-
-
-Ma Yamone PhooPwint Naing
-
-Ma Thandar Phyoe
+     Ma Yamone PhooPwint Naing
+     Ma Thandar Phyoe
 
 Ma Thiri Than Shwe
 Ma PhyuPhyu Aye
