@@ -5,7 +5,6 @@ A PROJECT REPORT ON
 
  “Python Flask Application(Who is Who in Myanmar)
      	 FOR
-
  GEO  MANDALAR Co,Ltd.
 
      SUBMITED IN PARTIAL
