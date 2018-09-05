@@ -88,7 +88,7 @@ CHAPTER 4  EVALUATION AND CONCLUSION
 
 
 
-Abstract
+#									Abstract
      This application will provide for users to view about famous people’s  biography in Myanmar such as business leaders, models, actors, actresses, directors, vocalists. By using this application,you can know these people biography in details.
      This application intends to give famous people’s information for users. Then it can also be viewed  to know this information easily and quickly.
       In our project, we use MaterializeCSS, Material Design Lite(include HTML, CSS,JAVASCRIPT languages),Python Programming Language for application design.
