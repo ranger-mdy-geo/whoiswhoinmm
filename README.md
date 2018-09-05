@@ -67,14 +67,14 @@ List of Tables.........................................................v
 CHAPTER 1   INTRODUCTION
 1.1	Introduction ..............................................1
 1.2	Background of the app..............................2
-1.2.1  HTML,CSS,Javascript ....................2
+            1.2.1  HTML,CSS,Javascript ....................2
             1.2.2 What is Python?
             1.2.3 What is Flask?
-1.3        Objective of the project............................3
+1.3     Objective of the project............................3
             1.2.4 What is SQL Alchemy?....................3
-  CHAPTER 2   METHDOLOGY.....................4
+CHAPTER 2   METHDOLOGY.....................4
  2.1      Software Selection
-    Software Requirement
+       Software Requirement
        Hardware Requirement
 2.2        Project Schedule.....................................5
 CHAPTER 3  PROJECT DEVELOPMENT
