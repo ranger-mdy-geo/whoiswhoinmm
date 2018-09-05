@@ -97,7 +97,7 @@ CHAPTER 4  EVALUATION AND CONCLUSION
 
  
 
-ACKNOWLEDGEMENT
+*                                                                       ACKNOWLEDGEMENT											   *
 We would like to express a great appreciation to U Kyaw Swar Soe, Rector, University of Computer Studies (Mandalay) who gives valuable advice at seminars for his permission to develop this project.
 Moreover, we would like to thank Dr. San San Tint,our pro-rector and our supervisor, Daw Khaing Myat Nwe, Faculty of Computer Systems and Technologies,University of Computer Studies (Mandalay) for giving their valuable and constructive suggestions during the plan for development of  this project.
 We would like to express our deep appreciation to the director, U Ravi Chhabra(CEO of Geo Mandalar Co.Ltd.,) for his guidance about software development workflow and for giving  his trust to us such a responsibility project during internship programme.
