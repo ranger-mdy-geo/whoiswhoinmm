@@ -1,6 +1,8 @@
 i# whoiswhoinmm
 Repo for project
+
 A PROJECT REPORT ON
+
  “Python Flask Application(Who is Who in Myanmar)
       FOR
 
@@ -11,16 +13,25 @@ A PROJECT REPORT ON
 FULFILLMENT OF INTERNSHIP
 
          PROJECT
+
    UNDER THE GUIDANCE OF
 
         Director
 
         U Ravi Chhabra
+
         Supervisor
+
          Daw Khaing Myat Nwe
+
      SUBMITTED BY
+     
+
+
 Ma Yamone PhooPwint Naing
+
 Ma Thandar Phyoe
+
 Ma Thiri Than Shwe
 Ma PhyuPhyu Aye
 Ma TheintNandar Zaw
