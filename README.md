@@ -319,7 +319,7 @@
 
                        						*CHAPTER 4
                    
-		   EVALUATION AND CONCLUSION
+		 EVALUATION AND CONCLUSION
                    
 		   4.1 Conclusion
                                  This application is simple and can be used easily for users.
