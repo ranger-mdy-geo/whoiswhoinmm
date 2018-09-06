@@ -334,7 +334,7 @@
 	             - It is simple and convenient to use.
 
 
-                            4.3  Disvantages of the Project
+                         4.3  Disvantages of the Project
                            
 			   If you have no internet connection, you cannot view about people information.
                   This application can only view about famous peole in Myanmar.
@@ -343,7 +343,8 @@
 
                                           Limitations
 
-           This application is not a complete application. Users cannot be searched about  famous people’s biography because our application doesn’t contain search box .It is the weakness of our application. Therefore, users can only view about famous people biography in details by clicking read more link.
+           This application is not a complete application. Users cannot be searched about  famous people’s biography because our application doesn’t contain search box .It is the weakness of 
+	   our application. Therefore, users can only view about famous people biography in details by clicking read more link.
 
 
 
