@@ -230,6 +230,7 @@
                   3.1.3  Sequence Diagram
 
                   3.1.4 App Design
+
         When we click menu icon, we can see this categories such as celebrity(actors,actresses), director, business leaders, vocalists, models.
      Then we click celebrity tab to view about actors and actresses information.The following figures show this people photos and READ MORE link.
      When we click “READ MORE” link of Wutt Hmone Shwe Yi,Wutt Hmone Shwe Yi biography in detail will show.
