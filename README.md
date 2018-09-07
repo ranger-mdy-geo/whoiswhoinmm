@@ -304,7 +304,8 @@
 
 
                    Tabel (3.6)  People Table
-                     Column	Constraint	Data Type	Length
+                   
+		   Column	Constraint	Data Type	Length
                        Id	Primary Key	Integer
                       Name		         varchar	 30
                       Link		         varchar	 10
@@ -315,8 +316,10 @@
 
 
                        *CHAPTER 4
-                    EVALUATION AND CONCLUSION
-                         4.1 Conclusion
+                   
+		   EVALUATION AND CONCLUSION
+                   
+		   4.1 Conclusion
                                  This application is simple and can be used easily for users.
     This would aslo reduce the time for user. It is easy to view about the biographies of directors, business leader, actors,actresses, vocalists who you want to know.
         The name “Who is Who in Myanmar” python flask application is convenient for users and it is one of the useful application in mobile phones, tablets or PCs.
