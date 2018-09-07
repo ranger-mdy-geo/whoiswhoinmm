@@ -273,7 +273,8 @@
 
 
                   Table (3.3) Business Leader Table
-                    Column	Constraint	Data Type	Length
+                
+		    Column	Constraint	Data Type	Length
                       Id	Primary Key	Integer
                       Name		         varchar	30
                       Link		         varchar	10
@@ -282,7 +283,8 @@
                       Bio		          text
 
                    Table (3.4) Vocalist Table
-                    Column	Constraint	Data Type	Length
+                    
+		    Column	Constraint	Data Type	Length
                       Id	Primary Key	Integer
                       Name		        varchar	           30
                       Link		        varchar	           10
@@ -291,7 +293,8 @@
                       Bio		         text
 
                    Tabel(3.5) Model Table
-                    Column	Constraint	Data Type	Length
+                    
+		    Column	Constraint	Data Type	Length
                       Id	Primary Key	Integer
                       Name		        varchar	          30
                       Link		        varchar	          10
