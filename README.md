@@ -325,14 +325,16 @@
         The name “Who is Who in Myanmar” python flask application is convenient for users and it is one of the useful application in mobile phones, tablets or PCs.
 
                           4.2 Advantage of the Project
-                                   This application gives the following advantages:
+                           
+			   This application gives the following advantages:
 	             - It can view to know about the biographies of famous people easily and quickly.
 	             - It can save time for users.
 	             - It is simple and convenient to use.
 
 
                             4.3  Disvantages of the Project
-                                      If you have no internet connection, you cannot view about people information.
+                           
+			   If you have no internet connection, you cannot view about people information.
                   This application can only view about famous peole in Myanmar.
 
 
