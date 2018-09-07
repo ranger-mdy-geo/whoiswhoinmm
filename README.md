@@ -340,6 +340,7 @@
 
 
                                           Limitations
+
            This application is not a complete application. Users cannot be searched about  famous people’s biography because our application doesn’t contain search box .It is the weakness of our application. Therefore, users can only view about famous people biography in details by clicking read more link.
 
 
