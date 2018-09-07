@@ -261,8 +261,10 @@
                      Bio		        text
 
                   Table (3.2) Director Table
-                    Column	Constraint	Data Type       Length
-                      Id	Primary Key	integer
+                 
+		 Column	Constraint	         Data Type       Length
+                        
+			Id 	              Primary Key	 integer
                       Name		        varchar	           30
                       Link		        varchar	           10
                       Occupation		varchar	           30
