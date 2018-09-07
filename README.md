@@ -161,7 +161,8 @@
                 Nowadays,mobile phones allow instant communication with not only our family, friends and people we know, but also with people across the world who we’ve never met in real life. So most of people are using  mobile phones to communicate each other.Thus, mobile phones are becoming necessary and useful devices for people.
                 This application can be used with   mobile phones, tablets or PCs. The project provides about an application that gives famous people’s  information in Myanmar.  It is a type of Python Flask Application.This application is simple and easy to use.
                  This project “Who Is Who In Myanmar”  intends to know about the biographies of famous actors, actresses, business leaders, vocalists, directors, models.Our project is helpful to save your time by viewing famous people biography easily and quickly.
-                   1.2  Background of the app
+                   
+		   1.2  Background of the app
 
                        1.1.1	HTML, Javascript, CSS
 
@@ -169,7 +170,8 @@
 
 
                         1.2.2	What is Python?
-                         Can we develop web application using python?
+                        
+			Can we develop web application using python?
 
            Python is a scripting language like PHP, Perl, Ruby and so much more. It can be used for web programming(Zope, Google App Engine , and much more). But it also can be used for desktop applications and can also be translated into binary code like java. It can be used to build server-side web applications.While a webframework is not required to built web applications,it’s rare that developers would not use existing open source libraries to speed up their progress in getting their application working. Python is not used in web browser.
       In this project, we use python language due to this above  good facts. This application is also a type of python flask application. So we must use python.
