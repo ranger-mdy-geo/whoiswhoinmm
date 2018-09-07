@@ -246,10 +246,14 @@
 
 
              3.2  Database Implementation
-                  Database Tables
-                  Table (3.1) Celebrity Table
-                   Column	Constraint	Data Type	 Length
-                     Id	        Primary Key	integer
+                  
+		  Database Tables
+                  
+		  Table (3.1) Celebrity Table
+                  
+		  Column	Constraint	Data Type	 Length
+                  
+		  Id	        Primary Key	integer
                      Name		        varchar	           30
                      Link		        varchar	           10
                      Occupation		        varchar	           30
